@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wolLExh/zTqX+ObJzwelA+cD7sG7HykQ8sA8ubJQzRdo+/BBLtMB6KOrE37PE7+nRKMx42nLqVzsQCQJmXrMjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SENAI AC\\Downloads\\07a_SP2_Atividade-1\\07a_SP2_Atividade-1--master\\Atividade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SENAI AC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\SENAI AC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\SENAI AC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\SENAI AC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
